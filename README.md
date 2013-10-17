@@ -1,6 +1,6 @@
 # Factus 12C for TextMate & Sublime Text
 
-A color scheme inspired by New Order's [Power Corruption & Lies][1] album
+A color scheme inspired by New Order's [Power Corruption & Lies][1] album. The name is derived from the catalogue number of the American cassette release.
 
 ![Animated Screenshot][2]
 
