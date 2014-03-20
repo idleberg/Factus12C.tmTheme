@@ -1,8 +1,8 @@
 # Factus 12C for TextMate & Sublime Text
 
-A color scheme inspired by New Order's [Power Corruption & Lies][1] album. The name is derived from the catalogue number of the American cassette release.
+A color scheme inspired by New Order's [Power Corruption & Lies](http://www.discogs.com/New-Order-Power-Corruption-Lies/release/267559) album. The name is derived from the catalogue number of the American cassette release.
 
-![Animated Screenshot][2]
+![Animated Screenshot](https://raw.github.com/idleberg/Factus12C.tmTheme/master/preview/screenshot.gif)
 
 ## Installation
 
@@ -15,11 +15,11 @@ A color scheme inspired by New Order's [Power Corruption & Lies][1] album. The n
 
 #### Package Control
 
-1. Make sure you already have [Package Control][3] installed
+1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
 3. Select *Factus 12C Color Scheme* and press `Enter`
 
-With [auto_upgrade][4] enabled, Package Control will keep all installed packages up-to-date!
+With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
 #### Manual Installation
 
@@ -29,15 +29,8 @@ With [auto_upgrade][4] enabled, Package Control will keep all installed packages
 
 ## License
 
-This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][5].
+This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US).
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][6]
-
-[1]: http://www.discogs.com/New-Order-Power-Corruption-Lies/release/267559
-[2]: https://raw.github.com/idleberg/Factus12C.tmTheme/master/preview/screenshot.gif
-[3]: http://wbond.net/sublime_packages/package_control/
-[4]: http://wbond.net/sublime_packages/package_control/settings/
-[5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[6]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Factus12C.tmTheme/&title=Apple&20Pips&20Color%20Scheme&category=software
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Factus12C.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
