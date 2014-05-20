@@ -1,4 +1,4 @@
-# Factus 12C for TextMate & Sublime Text
+# Factus 12C for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Factus12C.tmTheme.png)](http://travis-ci.org/idleberg/Factus12C.tmTheme)
 
 A color scheme inspired by New Order's [Power Corruption & Lies](http://www.discogs.com/New-Order-Power-Corruption-Lies/release/267559) album. The name is derived from the catalogue number of the American cassette release.
 
